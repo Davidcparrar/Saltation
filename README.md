@@ -9,7 +9,7 @@ This Repository contains the source code to simulate sand under wind and electri
 - Executable files to run the simulations, post processing and animations with VTK
 
 ### VideoEM
--Sample of an animation
+- Sample of an animation
 
 ### Saltacion
 - Sample image of Saltating Particles
